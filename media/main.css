@@ -1,0 +1,7 @@
+body { background-color: transparent; }
+button { display: block; border: none; margin: 0 auto; width: 103%;}
+#timesstampmanual{ display:none; margin-top: 5px;margin-bottom: 5px;}
+.chk{ margin-bottom: 15px;; }
+.alert, .alert2{ color: #ff0000; }
+.disabled{pointer-events: none; opacity: 0,4;}
+.result{text-align: center;border: 1px solid #fff;margin-top: 5px;margin-bottom: 5px; width: 103%;}
